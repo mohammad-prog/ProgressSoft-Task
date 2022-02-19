@@ -21,26 +21,26 @@ to make sure all units are working as we expected and to investigate if there is
 
 - What is the IDE did you use?
 
-Intellij
+  Intellij
 
 
 - Name the Java APIs you used?
 
-java .io/nio
-Java math
-java util
+  java .io/nio
+  java math
+  java util
 
 
 - Mention down any difficulties or concerns you faced while working on the task. Your feedback is appreciated :D.
 
-how to work with dependency injection and make my application  work with abstraction as much as possible /how to reduce redundant code
+   how to work with dependency injection and make my application  work with abstraction as much as possible /how to reduce redundant code
 
 
 - If you implement any of the bonus points, please mentioned it in this file
-Sorry, I didn't
+   Sorry, I didn't
 
 
 - Did this task enrich technical skills or knowledge? If yes, tell us how: 
 
-yes,I learned to work with Junit and dependency Injection 
+  yes,I learned to work with Junit and dependency Injection 
 
